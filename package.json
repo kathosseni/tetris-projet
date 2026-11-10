@@ -1,0 +1,24 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathosseni/tetris-projet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kathosseni/tetris-projet/issues"
+  },
+  "homepage": "https://github.com/kathosseni/tetris-projet#readme",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  },  
+  "scripts": {
+    "test": "vitest run"
+  }
+}
